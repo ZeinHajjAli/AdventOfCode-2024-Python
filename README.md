@@ -19,4 +19,4 @@ Each day's solution is in its own directory:
 └── ...
 ```
 
-and usually in a Jupyter notebook (`solution.ipynb`). I've also included my input.txt files (and sometimes the example input) to be able to reproduce my answers.
+and usually in a Jupyter notebook (`solution.ipynb`).
